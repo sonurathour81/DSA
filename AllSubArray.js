@@ -33,7 +33,7 @@ const subArraySum = (arr, s) => {
 }
 
 let arr2 = [1, 3, 4, 5, 7, 3, 5]
-// console.log(subArraySum(arr2, 12));
+console.log(subArraySum(arr2, 12));
 
 
 
@@ -62,7 +62,7 @@ const subArraySum2 = (arr, s) => {
 }
 
 let arr3 = [1, 3, 4, 5, 7, 5,7]
-console.log(subArraySum2(arr3, 12));
+console.log(subArraySum2(arr3, 14));
 
 
 
