@@ -34,6 +34,6 @@ const findLeaders2 = (arr) => {
     return leaderNo.reverse()
 }
 
-let arr = [8, 11, 5, 11, 7, 6, 30,8]
+let arr = [8, 11, 5, 11, 7, 6,31, 30,8,9]
 
 console.log("Leaders=>", findLeaders2(arr));
